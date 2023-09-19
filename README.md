@@ -24,8 +24,8 @@
     <h2>GitHub Status</h2>
      <div align="center">
       <a href="https://github.com/davidbrennerm">
-      <img width="48%" src="https://github-readme-stats.vercel.app/api?username=davidbrennerm&show_icons_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-      <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidbrennerm&layout=compact&langs_count=7&theme=dracula"/>
+      <img width="50%" src="https://github-readme-stats.vercel.app/api?username=davidbrennerm&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+      <img width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=davidbrennerm&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
     </div> 
   </div>
 </body>
