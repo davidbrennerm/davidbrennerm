@@ -1,7 +1,7 @@
 <body>
   <div>
     <h2>Olá eu sou o David 👋🏽</h2>
-    <p>Sou estudante de Análise e Desenvolvimento de Sistemas, procurando me aprimorar mais a cada dia!</p>
+    <p>Estudante de Análise e Desenvolvimento de Sistemas e aspirante à Desenvolvedor Back-end.</p>
   </div>
   
   <div>
@@ -16,7 +16,7 @@
   
   <div style="display: inline_block">
     <h2>Habilidades que estou desenvolvendo</h2>
-    <img align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    <img align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <img align="center" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </div>
   
