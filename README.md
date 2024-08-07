@@ -1,7 +1,7 @@
 <body>
   <div>
     <h2>Olá eu sou o David 👋🏽</h2>
-    <p>Olá! Sou um estudante de Análise e Desenvolvimento de Sistemas e aspirante a Desenvolvedor Back-end. Sou apaixonado por tecnologia e desenvolvimento de software, especialmente na área de back-end. Adoro resolver problemas complexos e aprender novas tecnologias.</p>
+    <p>Sou um estudante de Análise e Desenvolvimento de Sistemas e aspirante a Desenvolvedor Back-end. Sou apaixonado por tecnologia e desenvolvimento de software, especialmente na área de back-end. Adoro resolver problemas complexos e aprender novas tecnologias.</p>
   </div>
   
   <div>
