@@ -1,31 +1,65 @@
-<body>
-  <div>
-    <h2>Olá eu sou o David 👋🏽</h2>
-    <p>Sou um estudante de Análise e Desenvolvimento de Sistemas e aspirante a Desenvolvedor Back-end. Sou apaixonado por tecnologia e desenvolvimento de software, especialmente na área de back-end. Adoro resolver problemas complexos e aprender novas tecnologias.</p>
-  </div>
-  
-  <div>
-    <h2>Conecte-se comigo</h2>
-    <a href="https://www.linkedin.com/in/david-martins-726b311b5/">
-      <img align="center" width="40" height="40" src="https://itcnet.gr/wp-content/uploads/2020/09/Linkedin-logo-on-transparent-Background-PNG-.png"/>
-    </a>
-    <a href="https://discord.com/channels/davidbrennerm">
-      <img align="center" width="40" height="30" src="https://th.bing.com/th/id/OIP.0kj7XPF_bdTVCg7IFuPR-gHaFV?pid=ImgDet&rs=1">
-    </a>
-  </div>
-  
-  <div style="display: inline_block">
-    <h2>Habilidades que estou desenvolvendo</h2>
-    <img align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    <img align="center" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  </div>
-  
-  <div>
-    <h2>GitHub Status</h2>
-     <div align="center">
-      <a href="https://github.com/davidbrennerm">
-      <img width="50%" src="https://github-readme-stats.vercel.app/api?username=davidbrennerm&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
-      <img width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=davidbrennerm&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
-    </div> 
-  </div>
-</body>
+# 👋 Olá, eu sou o David Martins!
+
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Dev Full Stack em formação
+📍 Minas Gerais, Brasil  
+📫 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/david-martins-726b311b5/)
+
+---
+
+## 🚀 Sobre mim
+
+Sou apaixonado por tecnologia e estou em transição de carreira. Atualmente me dedico ao desenvolvimento de soluções full stack, com foco especial no **backend**, criando aplicações completas e integradas com bancos de dados e APIs.
+
+Gosto de desafios e de aprender coisas novas — seja dominando frameworks, seja refinando meus projetos com um toque de design criativo.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+**Backend**  
+- Java (Spring Boot)  
+- Node.js  
+- PostgreSQL  
+- Hibernate  
+- Prisma ORM  
+
+**Frontend**  
+- HTML | CSS | JavaScript  
+- Design com foco moderno e vintage (✨ *CineTeca vibes* ✨)
+
+**Outros**  
+- Git & GitHub  
+- API REST  
+- JSON, DTOs, e boas práticas de arquitetura  
+
+---
+
+## 💼 Projetos em destaque
+
+- 💬 **[Sistema de Fórum](https://github.com/davidbrennerm)**  
+  Aplicação Spring Boot com tópicos, usuários e cursos persistidos via PostgreSQL.
+
+- 💱 **[Conversor de Moedas](https://github.com/davidbrennerm/conversor_ImersaoDev)**  
+  Projeto feito na Imersão DEV da Alura, consumindo API de câmbio.
+
+- 🧮 **[Calculadora](https://github.com/davidbrennerm/Calculator)**  
+  Uma calculadora simples feita com HTML, CSS e JavaScript puro.
+
+---
+
+## 📈 GitHub Stats
+
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidbrennerm&show_icons=true&theme=radical)
+
+---
+
+## ✨ Curiosidades
+
+- 📚 Atualmente estudando inglês para expandir horizontes e me comunicar melhor com o mundo dev.
+- 🧠 Sempre em busca de entender como as coisas funcionam por trás dos bastidores.
+- 🧩 Acredito que cada linha de código pode transformar uma ideia em algo incrível.
+
+---
+
+🔗 **Obrigado por visitar meu perfil! Vamos construir algo juntos?**
