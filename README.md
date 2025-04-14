@@ -26,7 +26,7 @@ Gosto de desafios e de aprender coisas novas — seja dominando frameworks, seja
 
 **Frontend**  
 - HTML | CSS | JavaScript  
-- Design com foco moderno e vintage (✨ *CineTeca vibes* ✨)
+- Design com foco moderno e vintage
 
 **Outros**  
 - Git & GitHub  
